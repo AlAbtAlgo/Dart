@@ -8,6 +8,7 @@
 ## Graphs
   * [Breadth First Search](https://github.com/AlAbtAlgo/Dart/blob/master/Graphs/breadth_first_search.dart)
   * [Depth First Search](https://github.com/AlAbtAlgo/Dart/blob/master/Graphs/depth_first_search.dart)
+  * [Nearest Neighbour Algorithm](https://github.com/AlAbtAlgo/Dart/blob/master/Graphs/nearest_neighbour_algorithm.dart)
 
 ## [Magic Number](https://github.com/AlAbtAlgo/Dart/blob/master//magic_number.dart)
 
