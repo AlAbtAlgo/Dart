@@ -3,7 +3,7 @@
  */
 
 void main() {
-  String stringToReverse = "The Algorithms:Dart";
+  String stringToReverse = "AlAbtAlgo :Dart";
   print('Method 1 =>  $stringToReverse\t   ${reverseString(stringToReverse)}');
   print('Method 2 =>  $stringToReverse\t   ${reverseString2(stringToReverse)}');
 }
