@@ -13,3 +13,6 @@
 ## [Magic Number](https://github.com/AlAbtAlgo/Dart/blob/master//magic_number.dart)
 
 ## [N Bonacci](https://github.com/AlAbtAlgo/Dart/blob/master//N_bonacci.dart)
+
+## Strings
+  * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
