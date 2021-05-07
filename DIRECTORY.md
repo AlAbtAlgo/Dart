@@ -5,4 +5,6 @@
 ## Backtracking
   * [Open Knight Tour](https://github.com/AlAbtAlgo/Dart/blob/master/backtracking/open_knight_tour.dart)
 
+## [Magic Number](https://github.com/AlAbtAlgo/Dart/blob/master//magic_number.dart)
+
 ## [N Bonacci](https://github.com/AlAbtAlgo/Dart/blob/master//N_bonacci.dart)
