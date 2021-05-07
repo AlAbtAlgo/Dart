@@ -16,3 +16,4 @@
 
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
+  * [Remove Duplicates](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/remove%20duplicates.dart)
