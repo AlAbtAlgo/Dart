@@ -24,6 +24,9 @@
   * [Peak Element](https://github.com/AlAbtAlgo/Dart/blob/master/search/peak_element.dart)
   * [Ternary Search](https://github.com/AlAbtAlgo/Dart/blob/master/search/ternary_Search.dart)
 
+## Sort
+  * [Bubble Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/bubble_Sort.dart)
+
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
   * [Remove Duplicates](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/remove%20duplicates.dart)
