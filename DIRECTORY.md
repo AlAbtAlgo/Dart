@@ -37,6 +37,7 @@
   * [Radix Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/radix_sort.dart)
   * [Select Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/select_Sort.dart)
   * [Shell Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/shell_Sort.dart)
+  * [Tim Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/tim_Sort.dart)
 
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
