@@ -22,6 +22,7 @@
   * [Jump Search](https://github.com/AlAbtAlgo/Dart/blob/master/search/jump_Search.dart)
   * [Linear Search](https://github.com/AlAbtAlgo/Dart/blob/master/search/linear_Search.dart)
   * [Peak Element](https://github.com/AlAbtAlgo/Dart/blob/master/search/peak_element.dart)
+  * [Ternary Search](https://github.com/AlAbtAlgo/Dart/blob/master/search/ternary_Search.dart)
 
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
