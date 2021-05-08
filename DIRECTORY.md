@@ -31,6 +31,7 @@
   * [Gnome Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/gnome_Sort.dart)
   * [Heap Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/heap_Sort.dart)
   * [Insert Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/insert_Sort.dart)
+  * [Merge Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/merge_sort.dart)
 
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
