@@ -16,6 +16,7 @@
 
 ## Search
   * [Binary Search](https://github.com/AlAbtAlgo/Dart/blob/master/search/binary_Search.dart)
+  * [Binary Search Recursion](https://github.com/AlAbtAlgo/Dart/blob/master/search/binary_search_recursion.dart)
 
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
