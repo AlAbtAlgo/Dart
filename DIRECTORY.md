@@ -14,6 +14,9 @@
 
 ## [N Bonacci](https://github.com/AlAbtAlgo/Dart/blob/master//N_bonacci.dart)
 
+## Search
+  * [Binary Search](https://github.com/AlAbtAlgo/Dart/blob/master/search/binary_Search.dart)
+
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
   * [Remove Duplicates](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/remove%20duplicates.dart)
