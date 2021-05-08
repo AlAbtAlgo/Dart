@@ -34,6 +34,7 @@
   * [Merge Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/merge_sort.dart)
   * [Pigeonhole Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/pigeonhole_sort.dart)
   * [Quick Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/quick_Sort.dart)
+  * [Radix Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/radix_sort.dart)
 
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
