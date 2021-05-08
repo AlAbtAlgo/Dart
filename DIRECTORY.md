@@ -20,6 +20,7 @@
   * [Fibonacci Search](https://github.com/AlAbtAlgo/Dart/blob/master/search/fibonacci_Search.dart)
   * [Interpolation Search](https://github.com/AlAbtAlgo/Dart/blob/master/search/interpolation_Search.dart)
   * [Jump Search](https://github.com/AlAbtAlgo/Dart/blob/master/search/jump_Search.dart)
+  * [Linear Search](https://github.com/AlAbtAlgo/Dart/blob/master/search/linear_Search.dart)
 
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
