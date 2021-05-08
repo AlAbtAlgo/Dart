@@ -33,6 +33,7 @@
   * [Insert Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/insert_Sort.dart)
   * [Merge Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/merge_sort.dart)
   * [Pigeonhole Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/pigeonhole_sort.dart)
+  * [Quick Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/quick_Sort.dart)
 
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
