@@ -27,6 +27,7 @@
 ## Sort
   * [Bubble Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/bubble_Sort.dart)
   * [Cocktail Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/cocktail_sort.dart)
+  * [Comb Sort](https://github.com/AlAbtAlgo/Dart/blob/master/sort/comb_sort.dart)
 
 ## Strings
   * [Knuth Morris Prat](https://github.com/AlAbtAlgo/Dart/blob/master/Strings/knuth_morris_prat.dart)
